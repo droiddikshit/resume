@@ -5,7 +5,8 @@ const profileData = {
   about: {
     intro: `Android Developer Geek`,
     contact: {
-      email: 'akshayadikshit1004.com',
+      email: '2020mt93591@wilp.bits-pilani.ac.in',
+      // email: 'akshayadikshit1004.com',
       phone: '+91-9559421992',
       address: 'Bangalore, India'
     }
@@ -176,6 +177,9 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
     },
     {
       desc: `Android Engineer Volunteer in FightPandemics`,
+    },
+    {
+      desc: `Created ERC-20 token and deployed in rinkeby.etherscan.io testnet.`,
     }
   ],
   events: []
