@@ -5,8 +5,7 @@ const profileData = {
   about: {
     intro: `Android Developer Geek`,
     contact: {
-      email: '2020mt93591@wilp.bits-pilani.ac.in',
-      // email: 'akshayadikshit1004.com',
+      email: 'akshayadikshit1004.com',
       phone: '+91-9559421992',
       address: 'Bangalore, India'
     }
