@@ -17,14 +17,12 @@ const profileData = {
   education: [
     {
       alma: 'Mtech (CS)',
-      duration: 'in-progress',
       std: 'BITS-WILP',
 
     },
 
     {
       alma: 'Btech (CS)',
-      duration: '2011- 2015',
       std: 'PSIT College',
 
     },
