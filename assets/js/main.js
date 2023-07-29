@@ -50,10 +50,10 @@ const setEducation = education => {
     eduAlma.innerHTML = edu.alma;
     eduHeader.appendChild(eduAlma);
 
-    const eduDuration = document.createElement('span');
-    eduDuration.className = 'edu-duration';
-    eduDuration.innerHTML = edu.duration;
-    eduHeader.appendChild(eduDuration);
+    // const eduDuration = document.createElement('span');
+    // eduDuration.className = 'edu-duration';
+    // eduDuration.innerHTML = edu.duration;
+    // eduHeader.appendChild(eduDuration);
 
     li.appendChild(eduHeader);
 
