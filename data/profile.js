@@ -128,13 +128,13 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
     {
       organization: 'Jubilant Food Works Ltd ,   Senior Software Developer   (April 2021 - August 2022)',
       title: `SDE-3`,
-      date: 'April 2021 - till August 2022',
+      date: 'April 2021 - August 2022',
       details: [
         `Dominos pizza delivery app comes with an easy-to-use interface, a quick selection menu, and a smartly designed app-interface that lets you order food online of your choice`
       ]
     },
     {
-      organization: 'Novopay Solutions Pvt Ltd , Bangalore - Mobile Application Developer  Fintech (March 2018 till April 2021 )',
+      organization: 'Novopay Solutions Pvt Ltd , Bangalore - Mobile Application Developer  Fintech (March 2018 - April 2021 )',
       title: `SDE-2`,
       date: 'March 2018 - April 2021',
       details: [
