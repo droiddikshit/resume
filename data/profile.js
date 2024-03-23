@@ -117,7 +117,7 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
   ],
   experiences: [
  {
-      organization: 'Zee Entertainment Enterprises Limited , Bangalore - Tech Lead (August 2022 till present )',
+      organization: 'Zee Entertainment Enterprises Limited , Bangalore - Tech Lead (August 2022 - Present )',
       title: `Tech Lead`,
       date: 'August 2022 - present',
       details: [
@@ -126,7 +126,7 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
     },
     
     {
-      organization: 'Jubilant Food Works Ltd ,   Senior Software Developer   (April 2021 till August 2022)',
+      organization: 'Jubilant Food Works Ltd ,   Senior Software Developer   (April 2021 - August 2022)',
       title: `SDE-3`,
       date: 'April 2021 - till August 2022',
       details: [
@@ -143,7 +143,7 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
       ]
     },
     {
-      organization: '42 Gears Mobility System, Bangalore  (Oct 2016 till Feb 2018)',
+      organization: '42 Gears Mobility System, Bangalore  (Oct 2016 - Feb 2018)',
       title: `SDE-1`,
       date: 'Oct 2016 - Feb 2018',
       details: [
@@ -151,7 +151,7 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
       ]
     },
       {
-        organization: 'Explara, Bangalore- Android Developer (Aug 2015 till Aug 2016)',
+        organization: 'Explara, Bangalore- Android Developer (Aug 2015 - Aug 2016)',
         title: `Software Engineer`,
         date: 'Aug 2015 - Aug 2016',
         details: [
@@ -160,9 +160,22 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
       }
   ],
   certifications: [
+
+ {
+      desc: `Awarded by ZEE for Android Auto completion in Hackathon`,
+    },
+     {
+      desc: `Android Auto blog featured in DroidCon Berlin`,
+    },
+      {
+      desc: `Speaker in Google Devfest Bhopal, Kanpur, etc`,
+    },
+    
     {
       desc: `Awarded by Novopay for Employee of the month.`,
     },
+
+    
     {
       desc: `Awarded by 42Gears for Employee of the month`,
     },
