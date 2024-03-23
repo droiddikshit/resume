@@ -11,8 +11,8 @@ const profileData = {
     }
   },
   links: [
-    { title: 'Linkedin', src: 'https://www.linkedin.com/in/akshayadikshit/' },
-    { title: 'Github', src: 'https://github.com/akshaya1004' }
+    { title: 'Linkedin', src: 'https://www.linkedin.com/in/droiddikshit/' },
+    { title: 'Github', src: 'https://github.com/droiddikshit' }
   ],
   education: [
     {
