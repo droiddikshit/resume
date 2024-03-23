@@ -116,10 +116,19 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
 
   ],
   experiences: [
+ {
+      organization: 'Zee Entertainment Enterprises Limited , Bangalore - Tech Lead (August 2022 till present )',
+      title: `Tech Lead`,
+      date: 'August 2022 - present',
+      details: [
+        `Zee5 is an Indian streaming app offering a wide range of movies, TV shows, web series, and live TV channels in multiple languages. It provides personalized recommendations, offline downloads, and live streaming options, making it a comprehensive entertainment platform`
+      ]
+    },
+    
     {
-      organization: 'Jubilant Food Works Ltd ,   Senior Software Developer   (April 2021 till present)',
+      organization: 'Jubilant Food Works Ltd ,   Senior Software Developer   (April 2021 till August 2022)',
       title: `SDE-3`,
-      date: 'April 2021 - till present',
+      date: 'April 2021 - till August 2022',
       details: [
         `Dominos pizza delivery app comes with an easy-to-use interface, a quick selection menu, and a smartly designed app-interface that lets you order food online of your choice`
       ]
