@@ -53,11 +53,17 @@ const profileData = {
   ],
   projects: [
     {
+      title: 'Zee5 Android App ',
+      link: 'https://play.google.com/store/apps/details?id=com.graymatrix.did',
+      desc: `Zee5 is an Indian streaming app offering a wide range of movies, TV shows, web series, and live TV channels in multiple languages. It provides personalized recommendations, offline downloads, and live streaming options, making it a comprehensive entertainment platform.`
+    },
+    
+    {
       title: 'Dominos India App',
       link: 'https://play.google.com/store/apps/details?id=com.Dominos',
       desc: `Dominos pizza delivery app comes with an easy-to-use interface, a quick selection menu, and a
 smartly designed app-interface that lets you order food online of your choice`
-    },
+    },  
     {
       title: 'Dominos Bangladesh App',
       link: 'https://play.google.com/store/apps/details?id=com.dominos.bd',
