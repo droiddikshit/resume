@@ -30,7 +30,7 @@ const profileData = {
   skills: [
     {
       category: 'Android',
-      topics: ['MVVM', 'MVP', 'DAGGER-HILT',Clean Arch, 'Jetpack Compose', 'Coroutines', 'Rxjava', 'Livedata', 'Junit', 'Mockito','Retrofit', 'Picasso', 'Glide', 'Flow' 'etc']
+      topics: ['MVVM', 'MVP', 'DAGGER-HILT',Clean Arch, 'Jetpack Compose', 'Coroutines', 'Rxjava', 'Livedata', 'Junit', 'Mockito','Retrofit', 'Picasso', 'Glide', 'Flow', 'etc']
     },
     {
       category: 'Programming Language',
