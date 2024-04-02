@@ -30,7 +30,7 @@ const profileData = {
   skills: [
     {
       category: 'Android',
-      topics: ['MVVM', 'MVP', 'DAGGER-HILT', 'Jetpack', 'Coroutines', 'Rxjava', 'Livedata', 'Junit', 'Mockito','Retrofit', 'Picasso', 'Glide', 'etc']
+      topics: ['MVVM', 'MVP', 'DAGGER-HILT', 'Jetpack Compose', 'Coroutines', 'Rxjava', 'Livedata', 'Junit', 'Mockito','Retrofit', 'Picasso', 'Glide', 'etc']
     },
     {
       category: 'Programming Language',
@@ -48,7 +48,7 @@ const profileData = {
     },
     {
       category: 'Exploring Currently',
-      topics: ['Blockchain', 'Ethereum DAPPS', 'Jetpack Compose', 'etc']
+      topics: ['Blockchain', 'Ethereum DAPPS', 'etc']
     }
   ],
   projects: [
