@@ -30,7 +30,7 @@ const profileData = {
   skills: [
     {
       category: 'Android',
-      topics: ['MVVM', 'MVP', 'DAGGER-HILT', 'Jetpack Compose', 'Coroutines', 'Rxjava', 'Livedata', 'Junit', 'Mockito','Retrofit', 'Picasso', 'Glide', 'etc']
+      topics: ['MVVM', 'MVP', 'DAGGER-HILT',Clean Arch, 'Jetpack Compose', 'Coroutines', 'Rxjava', 'Livedata', 'Junit', 'Mockito','Retrofit', 'Picasso', 'Glide', 'Flow' 'etc']
     },
     {
       category: 'Programming Language',
@@ -117,7 +117,7 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
   ],
   experiences: [
  {
-      organization: 'Zee Entertainment Enterprises Limited , Bangalore - Tech Lead (August 2022 - Present )',
+      organization: 'Zee Entertainment Enterprises Limited , Bangalore - Android Tech Lead (August 2022 - Present )',
       title: `Tech Lead`,
       date: 'August 2022 - present',
       details: [
