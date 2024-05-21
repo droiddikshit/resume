@@ -123,7 +123,7 @@ desc:`The Explara app is event ticketing platform where all the events listed wi
   ],
   experiences: [
  {
-      organization: 'Zee Entertainment Enterprises Limited , Bangalore - Android Tech Lead (August 2022 - Present )',
+      organization: 'Zee Entertainment Enterprises Limited , Bangalore - Android Tech Lead (August 2022 - Present)',
       title: `Tech Lead`,
       date: 'August 2022 - present',
       details: [
