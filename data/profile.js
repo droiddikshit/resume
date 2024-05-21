@@ -16,14 +16,14 @@ const profileData = {
   ],
   education: [
     {
-      alma: 'Mtech (CS)',
-      std: 'BITS-WILP',
+      alma: 'Mtech (CSE)',
+      std: 'Bits Pilani',
 
     },
 
     {
-      alma: 'Btech (CS)',
-      std: 'PSIT College',
+      alma: 'Btech (CSE)',
+      std: 'UPTU University',
 
     },
   ],
