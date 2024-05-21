@@ -23,7 +23,7 @@ const profileData = {
 
     {
       alma: 'Btech (CSE)',
-      std: 'UPTU University',
+      std: 'UPTU',
 
     },
   ],
